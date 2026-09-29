@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37314.3 d17.14
+VisualStudioVersion = 17.14.37314.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{26776F0D-735C-4370-94B7-F43F990B8FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables-BaiTap", "Variables02\Variables-BaiTap.csproj", "{553DB5EE-71F5-41AF-AF9C-3DEA65B82A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator", "Operator\Operator.csproj", "{8FF0727B-77FF-4F2D-A96D-FBA063EF9414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionsFlowLoop‎", "ConditionsFlowLoop‎\ConditionsFlowLoop‎.csproj", "{2D9A488D-E308-441F-A3AA-FCFA2123C7DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{26776F0D-735C-4370-94B7-F43F990B8FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26776F0D-735C-4370-94B7-F43F990B8FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26776F0D-735C-4370-94B7-F43F990B8FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553DB5EE-71F5-41AF-AF9C-3DEA65B82A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553DB5EE-71F5-41AF-AF9C-3DEA65B82A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553DB5EE-71F5-41AF-AF9C-3DEA65B82A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553DB5EE-71F5-41AF-AF9C-3DEA65B82A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF0727B-77FF-4F2D-A96D-FBA063EF9414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF0727B-77FF-4F2D-A96D-FBA063EF9414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF0727B-77FF-4F2D-A96D-FBA063EF9414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF0727B-77FF-4F2D-A96D-FBA063EF9414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9A488D-E308-441F-A3AA-FCFA2123C7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9A488D-E308-441F-A3AA-FCFA2123C7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9A488D-E308-441F-A3AA-FCFA2123C7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9A488D-E308-441F-A3AA-FCFA2123C7DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
