@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables02\\Variables-BaiTap.csproj",
-      "projectName": "Variables-BaiTap",
-      "projectPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables02\\Variables-BaiTap.csproj",
+      "projectUniqueName": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables02\\02.Variables-BaiTap.csproj",
+      "projectName": "02.Variables-BaiTap",
+      "projectPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables02\\02.Variables-BaiTap.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
       "outputPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables02\\obj\\",
       "projectStyle": "PackageReference",

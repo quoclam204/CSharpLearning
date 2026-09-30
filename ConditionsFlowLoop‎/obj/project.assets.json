@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\ConditionsFlowLoop‎\\ConditionsFlowLoop‎.csproj",
-      "projectName": "ConditionsFlowLoop‎",
-      "projectPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\ConditionsFlowLoop‎\\ConditionsFlowLoop‎.csproj",
+      "projectUniqueName": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\ConditionsFlowLoop‎\\05.ConditionsFlowLoop‎.csproj",
+      "projectName": "05.ConditionsFlowLoop‎",
+      "projectPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\ConditionsFlowLoop‎\\05.ConditionsFlowLoop‎.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
       "outputPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\ConditionsFlowLoop‎\\obj\\",
       "projectStyle": "PackageReference",

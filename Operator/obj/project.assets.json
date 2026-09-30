@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Operator\\Operator.csproj",
-      "projectName": "Operator",
-      "projectPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Operator\\Operator.csproj",
+      "projectUniqueName": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Operator\\03.Operator.csproj",
+      "projectName": "03.Operator",
+      "projectPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Operator\\03.Operator.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
       "outputPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Operator\\obj\\",
       "projectStyle": "PackageReference",

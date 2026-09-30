@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables\\Variables.csproj",
-      "projectName": "Variables",
-      "projectPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables\\Variables.csproj",
+      "projectUniqueName": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables\\01.Variables.csproj",
+      "projectName": "01.Variables",
+      "projectPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables\\01.Variables.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
       "outputPath": "E:\\INTERN .NET\\CSharpBasic\\CSharpLearning\\Variables\\obj\\",
       "projectStyle": "PackageReference",
