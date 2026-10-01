@@ -1,0 +1,15 @@
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\bin\Debug\net9.0\07.2DArray.exe
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\bin\Debug\net9.0\07.2DArray.deps.json
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\bin\Debug\net9.0\07.2DArray.runtimeconfig.json
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\bin\Debug\net9.0\07.2DArray.dll
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\bin\Debug\net9.0\07.2DArray.pdb
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\07.2DArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\07.2DArray.AssemblyInfoInputs.cache
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\07.2DArray.AssemblyInfo.cs
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\07.2DArray.csproj.CoreCompileInputs.cache
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\07.2DArray.sourcelink.json
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\07.2DArray.dll
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\refint\07.2DArray.dll
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\07.2DArray.pdb
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\07.2DArray.genruntimeconfig.cache
+E:\INTERN .NET\CSharpBasic\CSharpLearning\07.2DArray\obj\Debug\net9.0\ref\07.2DArray.dll
