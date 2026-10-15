@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise10", "Exercise10\Exercise10.csproj", "{D12701A2-15CE-408E-A83C-93BC790F1D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStringTests", "ReverseStringTests\ReverseStringTests.csproj", "{050BF03E-8CE8-4277-BD1B-487B5438CCA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12701A2-15CE-408E-A83C-93BC790F1D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12701A2-15CE-408E-A83C-93BC790F1D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12701A2-15CE-408E-A83C-93BC790F1D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12701A2-15CE-408E-A83C-93BC790F1D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050BF03E-8CE8-4277-BD1B-487B5438CCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050BF03E-8CE8-4277-BD1B-487B5438CCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050BF03E-8CE8-4277-BD1B-487B5438CCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050BF03E-8CE8-4277-BD1B-487B5438CCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5D9C4A-7078-4C0D-9186-2720CFF8A6FC}
+	EndGlobalSection
+EndGlobal
