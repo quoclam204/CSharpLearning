@@ -11,7 +11,7 @@ namespace StringHelperTests
             // Chuẩn bị dữ liệu
             StringHelper helper = new StringHelper();
             string text = "QuocLam";
-            int expected = 7;
+            int expected = 8;
 
             // Thực hiện hành động
             int actual = helper.GetLength(text);
