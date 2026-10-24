@@ -1,1 +1,0 @@
-mở file bài tập ra và làm
